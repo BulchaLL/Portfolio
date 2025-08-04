@@ -60,7 +60,7 @@ const Projects = [
         title: "Construction Website",
         discriotion: "A clean and user-friendly construction company website, focused on project showcases, service details, and easy contact options for clients.",
         category: "UI/UX Design",
-        link: "https://www.figma.com/file/3k2b1d8j4f8s9d8f8s9d8f/Portfolio-Design?node-id=0%3A1&t=3k2b1d8j4f8s9d8f8s9d8f",
+        link: "https://bulchall.github.io/MtConstruction/",
     },
     {
         id: 3,
@@ -138,4 +138,5 @@ displayItem(Projects);
             }
             
         
+
         );
