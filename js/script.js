@@ -3,6 +3,7 @@
     const navlnk = document.querySelectorAll(".navlnk");
     menuIcon.addEventListener("click", function() {
         navbar.classList.toggle("active");
+         menuIcon.classList.toggle("menu");
     });
           
 
@@ -10,12 +11,14 @@
             lnk.addEventListener("click", 
                 () => {
                     navbar.classList.remove("active"); 
+                      menuIcon.classList.remove("menu");
                 }
             )
           });
       document.addEventListener("click", function(event) {
           if (event.target.closest(".navbar") === null && event.target !== menuIcon) {
               navbar.classList.remove("active");
+                menuIcon.classList.remove("menu");
           }
      
       });
@@ -140,3 +143,4 @@ displayItem(Projects);
         
 
         );
+
