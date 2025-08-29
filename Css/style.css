@@ -601,6 +601,9 @@ h2,.main-text h2{
       left: auto; /* Reset left alignment */
       top: 0;
       }
+    .menu {
+        display: none;
+    }
       .navbar.active ul li {
          margin-top: 20px;
          display: none;
@@ -681,4 +684,5 @@ h2,.main-text h2{
 
    }
   
+
 }
