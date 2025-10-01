@@ -145,7 +145,7 @@ a:hover{
    -webkit-text-stroke: 0vw #241d27;
    border-right: 2px solid var(--dominant-color);
    overflow: hidden;
-   animation: animate 6s infinite, blink 1s infinite;
+   animation: animate 6s infinite, blink 1s step-end infinite;
  }
  @keyframes animate{
    0%,10%,100% 
@@ -689,5 +689,6 @@ h2,.main-text h2{
   
 
 }
+
 
 
