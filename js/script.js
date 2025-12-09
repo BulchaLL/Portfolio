@@ -83,7 +83,7 @@ const Projects = [
     {
         id: 1,
         image: "images/newconsulting.png",
-        alt: "consulting ui/ux design",
+        alt: "consulting ui/ux design by Bulcha Leta",
         title: "Consulting Website",
         discriotion: "A professional business consulting website for Gezahegn Consulting, featuring service listings, team profiles, and a modern, trustworthy look.",
         category: "UI/UX Design",
@@ -94,7 +94,7 @@ const Projects = [
         id: 2,
         image: "images/newconstruction.png",
         title: "Construction Website",
-        alt: "construction front end website",
+        alt: "construction front end website by Bulcha Leta",
         discriotion: "A clean and user-friendly construction company website, focused on project showcases, service details, and easy contact options for clients.",
         category: "UI/UX Design",
         link: "https://bulchall.github.io/MtConstruction/",
@@ -103,7 +103,7 @@ const Projects = [
         id: 3,
         image: "images/newphotography.png",
         title: "Photography Website",
-        alt: "photographer ui/ux design",
+        alt: "photographer ui/ux design by Bulcha Leta",
         discriotion: "A visually engaging photography website, allowing users to browse portfolios, book sessions, and communicate with photographers seamlessly.",
         category: "UI/UX Design",
         link: "https://www.behance.net/gallery/225478483/Abrish-Photography-Website-Design",
@@ -112,7 +112,7 @@ const Projects = [
         id: 4,
         image: "images/newresiden.png",
         title: "Real Estate Website",
-        alt: "rael estate ui/ux design",
+        alt: "rael estate ui/ux design by Bulcha Leta",
         discriotion: "A responsive real estate website built with modern UI/UX Design, featuring property listings, search filters, and interactive maps.",
         category: "UI/UX Design",
         link: "https://www.behance.net/gallery/225472443/Skyline-Residence-website",
@@ -121,7 +121,7 @@ const Projects = [
         id: 5,
         image: "images/newmusic.png",
         title: "Music Website",
-        alt: "intertainment ui/ux design",
+        alt: "intertainment ui/ux design by Bulcha Leta",
         discriotion: "A music streaming platform UI/UX Design, allowing users to discover, play, and organize tracks with a sleek and intuitive interface.",
         category: "UI/UX Design",
         link: "https://www.figma.com/file/3k2b1d8j4f8s9d8f8s9d8f/Portfolio-Design?node-id=0%3A1&t=3k2b1d8j4f8s9d8f8s9d8f",
@@ -130,7 +130,7 @@ const Projects = [
         id: 6,
         image: "images/newclinic.png",
         title: "Clinic Website",
-        alt: "helthycare front end website",
+        alt: "helthycare front end website by Bulcha Leta",
         discriotion: "A modern clinic website design focused on appointment booking, doctor profiles, and patient resources for improved healthcare accessibility.",
         category: "Front End Development",
         link: "https://www.behance.net/gallery/225478483/Abrish-Photography-Website-Design",
@@ -181,6 +181,7 @@ displayItem(Projects);
         
 
         );
+
 
 
 
