@@ -148,7 +148,7 @@ a:hover{
    animation: animate 6s infinite;
  }
 .hire-btn {
-  padding: 10px 50px;
+  padding: 10px 60px;
   background: var(--dominant-color);
   color: var(--second-color);
   margin-right: 20px;
@@ -783,6 +783,7 @@ h2,.main-text h2{
   
 
 }
+
 
 
 
