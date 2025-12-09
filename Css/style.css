@@ -630,6 +630,7 @@ h2,.main-text h2{
 .navbar ul li a {
    text-decoration: none;
    color: var(--text-color);
+   font-size: 14px;
 }
 
 .menu-toggle {
@@ -793,6 +794,7 @@ h2,.main-text h2{
   
 
 }
+
 
 
 
