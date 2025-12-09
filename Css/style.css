@@ -751,7 +751,7 @@ h2,.main-text h2{
       display: block;
    }
  .modal-content {
-  display: block;
+  margin: 10px;
   background: var(--second-color);
   color: var(--dominant-color);
   padding: 30px;
@@ -793,6 +793,7 @@ h2,.main-text h2{
   
 
 }
+
 
 
 
