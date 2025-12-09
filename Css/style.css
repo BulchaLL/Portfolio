@@ -750,10 +750,8 @@ h2,.main-text h2{
    .buttons{
       display: block;
    }
-    .modal-content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+ .modal-content {
+  display: block;
   background: var(--second-color);
   color: var(--dominant-color);
   padding: 30px;
@@ -795,6 +793,7 @@ h2,.main-text h2{
   
 
 }
+
 
 
 
