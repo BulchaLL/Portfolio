@@ -44,6 +44,26 @@
             }
         });
 
+        const hireMeBtn = document.getElementById('hireMeBtn');
+        const modal = document.getElementById('cvModal');
+        const closeBtn = document.querySelector('.close');
+
+        // Open modal
+        hireMeBtn.onclick = () => {
+        modal.style.display = 'flex';
+        };
+
+        // Close modal
+        closeBtn.onclick = () => {
+        modal.style.display = 'none';
+        };
+
+        // Close modal when clicking outside
+        window.onclick = (e) => {
+        if (e.target === modal) {
+            modal.style.display = 'none';
+        }
+        };
 
 
 
@@ -143,4 +163,5 @@ displayItem(Projects);
         
 
         );
+
 
