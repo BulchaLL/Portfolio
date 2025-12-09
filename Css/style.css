@@ -739,7 +739,7 @@ h2,.main-text h2{
    .hero-text, .about-description {
        padding: 10px;
    }
-   button, .submit{
+   button{
       align-items: center;
       }
 
@@ -750,6 +750,19 @@ h2,.main-text h2{
    .buttons{
       display: block;
    }
+    .modal-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--second-color);
+  color: var(--dominant-color);
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+  width: 90%;
+  max-width: 300px;
+  
+}
    .cards{
       display: flex;
       flex-direction: column;
@@ -782,6 +795,7 @@ h2,.main-text h2{
   
 
 }
+
 
 
 
