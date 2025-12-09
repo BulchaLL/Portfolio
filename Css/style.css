@@ -95,7 +95,7 @@ a:hover{
       letter-spacing: 1px;
       padding: 20px 0;
  }
- button,.submit{
+ button{
    font-size: var(--lebel-font-font);
    font-weight: 550;
    background-color: var(--second-color);
@@ -148,7 +148,7 @@ a:hover{
    animation: animate 6s infinite;
  }
 .hire-btn {
-  padding: 10px 60px;
+  padding: 10px 50px;
   background: var(--dominant-color);
   color: var(--second-color);
   margin-right: 20px;
@@ -783,6 +783,7 @@ h2,.main-text h2{
   
 
 }
+
 
 
 
