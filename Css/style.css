@@ -748,12 +748,13 @@ h2,.main-text h2{
          width: 97%;
          height: auto;
    }
-    .hire-btn {
-  padding: 10px 50px;
-  background: var(--dominant-color);
-  color: var(--second-color);
-  margin-right: 5px
-  box-shadow: none;
+    .btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 50px;
+ 
 
 }
    .buttons{
@@ -802,6 +803,7 @@ h2,.main-text h2{
   
 
 }
+
 
 
 
