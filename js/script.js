@@ -82,7 +82,7 @@
 const Projects = [
     {
         id: 1,
-        image: "images/newconsulting.png",
+        image: "images/newconsulting.pn",
         alt: "consulting ui/ux design by Bulcha Leta",
         title: "Consulting Website",
         discriotion: "A professional business consulting website for Gezahegn Consulting, featuring service listings, team profiles, and a modern, trustworthy look.",
@@ -92,7 +92,7 @@ const Projects = [
     },
     {
         id: 2,
-        image: "images/newconstruction.png",
+        image: "images/conistruction.jpg",
         title: "Construction Website",
         alt: "construction front end website by Bulcha Leta",
         discriotion: "A clean and user-friendly construction company website, focused on project showcases, service details, and easy contact options for clients.",
@@ -181,6 +181,7 @@ displayItem(Projects);
         
 
         );
+
 
 
 
