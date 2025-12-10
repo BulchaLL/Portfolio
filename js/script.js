@@ -92,7 +92,7 @@ const Projects = [
     },
     {
         id: 2,
-        image: "images/conistruction.jpg",
+        image: "images/construction.jpg",
         title: "Construction Website",
         alt: "construction front end website by Bulcha Leta",
         discriotion: "A clean and user-friendly construction company website, focused on project showcases, service details, and easy contact options for clients.",
@@ -181,6 +181,7 @@ displayItem(Projects);
         
 
         );
+
 
 
 
