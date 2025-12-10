@@ -97,7 +97,7 @@ const Projects = [
         alt: "construction front end website by Bulcha Leta",
         discriotion: "A clean and user-friendly construction company website, focused on project showcases, service details, and easy contact options for clients.",
         category: "UI/UX Design",
-        link: "https://bulchall.github.io/MtConstruction/",
+        link: "https://bulchall.github.io/construction-/",
     },
     {
         id: 3,
@@ -181,6 +181,7 @@ displayItem(Projects);
         
 
         );
+
 
 
 
